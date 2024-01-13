@@ -10,6 +10,8 @@ The dataset contains details about house sales in King County. Key features incl
 ## Objective
 To explore and analyze the King County housing dataset.
 To build predictive models for estimating house prices based on their features.
-Tools Used
+
+
+## Tools Used
 Python: For data analysis and model building.
 Jupyter Notebook: For interactive code execution and documentation.
