@@ -1,4 +1,6 @@
 # House Sales Analysis in King County, USA
+
+
 Overview
 This project focuses on analyzing residential real estate data in King County, USA, including Seattle, to predict house prices. The dataset spans from May 2014 to May 2015 and includes various attributes of houses. This analysis is crucial for making informed investment decisions in the real estate market.
 
